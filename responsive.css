@@ -1,0 +1,21 @@
+@media screen and (max-width:960px){
+    nav{
+        flex-direction: column;
+    }
+    .slider{
+        margin: 0px;
+    }
+    .slider>img{
+        width: 100vw;
+    }
+    .card>img{
+        width: 70px;
+        height: 70px;
+    }
+    .oneslide{
+        margin: 10px 0px 5px 0px;
+    }
+    .container{
+        padding: 10px;
+    }
+}
